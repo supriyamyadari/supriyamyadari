@@ -1,4 +1,4 @@
-Passionate biotech graduate diving into bioinformatics
+
 
 
 <!---
