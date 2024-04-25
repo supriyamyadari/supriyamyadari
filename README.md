@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi there! I'm Supriya, a dedicated biotechnologist with a strong focus on bioinformatics. I'm passionate about using computational methods to solve biological puzzles. With experience in exploratory data analysis (EDA), genomic variant analysis, RNA-seq analysis, microbiome analysis, protein structure prediction, and docking, I bring a wealth of expertise to the table. Proficient in Python and R programming, I'm always eager to tackle new challenges in the fascinating world of bioinformatics."
+"Hi there! I'm Supriya, a dedicated biotechnologist with a strong focus on bioinformatics. I'm passionate about using computational methods to solve biological puzzles. I have expertise in exploratory data analysis (EDA),DEanalysis, genomic variant analysis, RNA-seq analysis, microbiome analysis, protein structure prediction, and Docking. Proficient in Python and R programming, I'm always eager to tackle new challenges in the fascinating world of bioinformatics."
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
